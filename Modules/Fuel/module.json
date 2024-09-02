@@ -1,0 +1,14 @@
+{
+    "name": "Fuel",
+    "alias": "fuel",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Fuel\\Providers\\FuelServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
